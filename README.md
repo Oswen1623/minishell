@@ -1,5 +1,3 @@
-*This project has been created as part of the 42 curriculum by lucinguy, ccauderl.*
-
 # Minishell
 
 _lucinguy & ccauderl_  
@@ -7,8 +5,8 @@ _(piscine of september's 2025 - 42 PARIS)_
 
 ## Description
 
-The **Minishell** project is about writing our own shell, based on bash posix. A shell is a command language interpreter.
-
+The **Minishell** project is about writing our own shell, based on bash posix. This was part of the 
+ school curriculum.
 ### Instructions
 
 It must contain the following features :
